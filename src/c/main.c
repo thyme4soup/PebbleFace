@@ -13,6 +13,7 @@ double r1;
 double r2;
 double r3;
 
+//math
 static double floor(double d) {
   return (double) ((int) d);
 }
@@ -66,6 +67,7 @@ static void updateCenter3(int32_t t) {
   center3.y = d_round(y, 0);
 }
 
+//graphics
 static void circleDraw(GContext *ctx) {
   time_t now = time(NULL);
   struct tm *time = localtime(&now);

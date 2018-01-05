@@ -14,6 +14,7 @@
                     "file": "images/sc1.png",
                     "menuIcon": true,
                     "name": "MENU_IMAGE",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 }
             ]
