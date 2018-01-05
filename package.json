@@ -1,0 +1,33 @@
+{
+    "author": "mchenevey7@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "circles",
+    "pebble": {
+        "displayName": "Circles",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/sc1.png",
+                    "menuIcon": true,
+                    "name": "MENU_IMAGE",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "23ef8c62-f432-4aae-a2aa-07c41a0f9aac",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
